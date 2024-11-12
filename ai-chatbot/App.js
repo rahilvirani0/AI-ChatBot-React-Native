@@ -15,7 +15,7 @@ import {
 import OpenAI from "openai";
 
 const openai = new OpenAI({
-  apiKey: 'OPEN-AI-KEY',
+  apiKey: 'OPEN-AI-API-KEY',
 });
 
 // Alex's personality definition
